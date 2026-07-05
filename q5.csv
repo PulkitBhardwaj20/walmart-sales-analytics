@@ -1,0 +1,514 @@
+city,"ROUND(avg(rating),1)",min(rating),max(rating)
+"San Antonio",7,5,9.1
+Harlingen,9.6,9.6,9.6
+"Haltom City",6.2,3,9.5
+Bedford,8.2,6.1,9.3
+Irving,5.3,5.3,5.3
+Denton,6.7,4.1,9
+Cleburne,7.2,5.8,7.8
+Canyon,6.2,3,9
+Grapevine,7.2,7.2,7.2
+"Texas City",5.7,5.5,5.9
+Irving,6.2,3,9.8
+"San Angelo",5.8,3,7
+Abilene,8,7.1,8.8
+"San Angelo",8.4,8.2,8.5
+Lewisville,5.6,5.5,5.7
+"Corpus Christi",4.5,4.5,4.5
+"Round Rock",6.6,4.6,8.7
+"Cedar Park",6.8,6.6,6.9
+Conroe,6.9,4,8.6
+Irving,6.3,4,9.7
+Pharr,4.8,4.8,4.8
+Cleburne,4.9,4.2,5.6
+"Farmers Branch",6.3,3,9
+"Haltom City",8,4.5,9.9
+Midland,5.7,5.4,6
+Houston,6.2,3,9
+Lancaster,5.8,4,9
+Temple,5.2,3,9
+Garland,6.9,4.2,9.9
+"San Marcos",6.6,5,7.4
+Huntsville,6.8,4,9.7
+"Mineral Wells",4.8,4.5,5.1
+McAllen,7.2,5.1,9.3
+"Eagle Pass",5.1,5.1,5.1
+Mesquite,7.5,7.5,7.5
+"Big Spring",7.3,6.8,8
+Mission,7,7,7
+Hurst,5.6,4.7,6.5
+Hurst,7.5,6.6,8.1
+Richardson,5.4,3,9.8
+Pearland,6.7,3,9
+Cleburne,7,3,9
+"La Porte",7.2,5.6,9.5
+Bryan,6.6,4.5,9.1
+Allen,5.9,4.4,7.2
+Rowlett,6,3,9.5
+"Port Arthur",6.3,4.2,8.4
+"Grand Prairie",5.6,4.1,7.1
+Georgetown,8.3,7.6,9.4
+McAllen,5.8,3,9
+Southlake,7.4,5.2,9.5
+Angleton,7.7,6.9,8.5
+Mission,6.6,4,9
+"Missouri City",5.7,4,9
+"Fort Worth",6.6,4,9
+Bryan,7.2,6.1,8.2
+"San Antonio",5.5,3,9.5
+Grapevine,6.1,3,9
+Lewisville,7.6,5.8,9.3
+Bryan,7.2,4.5,10
+"Del Rio",5.8,3,9.9
+"League City",9.4,8.7,10
+Rockwall,7.8,6.3,9.7
+Waxahachie,7.2,4.8,9.5
+Bryan,6.8,5.8,7.9
+Killeen,8.2,6.7,9.8
+"Round Rock",5.1,3,9.9
+"San Angelo",6.5,4.3,8.7
+Arlington,7.6,5.5,9.6
+McKinney,6.3,3,9
+"Eagle Pass",6.5,4,9
+"Farmers Branch",6.6,5,8.7
+Lancaster,5.9,3,9.4
+"San Antonio",5.5,3,9.9
+"Port Arthur",5.4,3,9.2
+Alamo,6.9,3,9
+Georgetown,7.3,6.6,8.1
+Lufkin,6.7,4.3,9.8
+"Cedar Park",5.5,5.5,5.5
+Brownwood,7.8,6.4,9.2
+"Cedar Park",8.5,6.6,9.9
+Mission,8,7.7,8.3
+Alice,6.9,6.5,7.9
+Baytown,6.4,4,8.9
+Bryan,6.8,4,9.9
+Temple,7.3,7.3,7.3
+Lubbock,6.2,5.7,6.6
+"Big Spring",6.2,3,9
+"North Richland Hills",7.7,7.4,8.2
+Edinburg,6.5,5.1,7.8
+"Texas City",6.5,4.9,8.6
+"College Station",8.4,7.2,9.7
+Amarillo,5.1,5.1,5.1
+"Eagle Pass",5.7,4.1,7.3
+Austin,9.3,9.3,9.3
+Lubbock,6.1,3,9
+"San Marcos",5,3,7
+Euless,6,3,9
+Midland,5.7,4.9,6.3
+"Del Rio",8,8,8
+Waxahachie,5.9,3,9
+"Sugar Land",5.2,3,7.9
+Pharr,7.3,4.2,9.9
+Arlington,5.4,4.6,6.2
+Waco,7.6,5.3,9.3
+"Fort Worth",6.3,3,9
+Carrollton,6.1,4,9
+Waxahachie,5.1,3,9.2
+Edinburg,6.7,3,9
+Lufkin,6,3,9.9
+Abilene,7,6,8.9
+Lufkin,6.2,3,9
+Amarillo,6.8,5.2,7.8
+Kerrville,5.2,4.2,6.5
+"Cedar Park",6.4,3,9
+Cleburne,6,3,9
+"College Station",6.3,4,9
+Brownsville,9.1,9,9.2
+Pharr,6.1,3,9
+Frisco,6.2,5.1,7.2
+Mesquite,6.1,4,9
+Burleson,7.4,6.6,8.3
+Waxahachie,6.2,5.2,7.4
+Dallas,8.1,6.1,9
+Galveston,6,4.3,8.3
+"Mineral Wells",6.2,3,9
+Angleton,6.4,3,9.8
+"Round Rock",8.2,8.2,8.2
+Garland,7.4,6,9.5
+Mansfield,6.9,4,9.1
+Alice,7.7,5,9.2
+"Missouri City",6.4,3,9
+"Flower Mound",8,6.4,9.5
+Denton,6.7,3,9.2
+Sherman,5.6,5.6,5.6
+"North Richland Hills",6.3,4,9.3
+Brownsville,6.5,3,9
+Hurst,6.3,5.3,7.3
+Weatherford,5,3,7.4
+Lufkin,8.6,7.2,9.9
+"Del Rio",6.7,4.1,9.3
+Weslaco,8.7,7.1,9.8
+Canyon,6.9,5.8,8.9
+Alamo,7.3,5,10
+Odessa,8,7.7,8.3
+Pasadena,6.9,5.5,9.3
+Lubbock,7,7,7
+Schertz,5.5,4.1,6.5
+Euless,6.8,4.5,8.8
+Rockwall,5.6,4.8,6.5
+Southlake,8.9,8.5,9.7
+Longview,9,8,9.9
+Longview,6.9,6.3,7.5
+"Flower Mound",7.3,5.9,9.8
+DeSoto,6,3,9
+Seguin,9.6,9.6,9.6
+Pflugerville,6.6,3,9
+Rosenberg,9.9,9.9,9.9
+Seguin,5.2,3,8
+Conroe,8,8,8
+Carrollton,5.7,5.7,5.7
+Lancaster,7.6,5,9.8
+Midland,6.4,4,9
+"Sugar Land",5.2,3,9
+Schertz,5.4,3,9.8
+Pflugerville,6.8,4,9
+Galveston,6,3,9.5
+"Grand Prairie",6.2,3,9
+Grapevine,6.5,3,9
+"La Porte",7,4.9,9.1
+Dallas,6,3,9
+Alamo,8,7.7,8.2
+"Flower Mound",5.5,5.5,5.5
+Canyon,6.3,5.2,7
+"Fort Worth",6.8,5.1,9.9
+Rosenberg,5.8,3,9.8
+"Texas City",4.9,3,7
+Kerrville,8.3,7.9,8.7
+Waxahachie,5.1,3,9
+Baytown,6.1,3,9.5
+Victoria,5.3,3,7.3
+Angleton,6.7,4.4,9.7
+"Texas City",5.5,4.5,6.5
+"Sugar Land",8.5,8.5,8.5
+Friendswood,5.5,5.5,5.5
+Rowlett,5.8,5.4,6.1
+Killeen,6.6,4.4,9.4
+"San Antonio",6.5,5.6,7.6
+"Haltom City",9.7,9.7,9.7
+Pflugerville,6.8,4,8.4
+Burleson,9.7,9.7,9.7
+"North Richland Hills",6.6,5.3,7.9
+Arlington,6.2,3,9
+Carrollton,8.7,8.7,8.7
+Rockwall,5.4,4.1,6.5
+Burleson,4.9,4.9,4.9
+Midland,6.4,3,9
+Edinburg,7,4.3,9.8
+Kerrville,6.8,3,9
+Plano,7,5.6,7.8
+Coppell,6.4,3,9
+Hurst,6.6,3,9
+McAllen,6.1,4,9
+Pasadena,8.4,8,8.8
+Denton,4.2,4.2,4.2
+Pearland,6.4,6.4,6.4
+"Del Rio",6.4,4,9
+Grapevine,7.2,7.2,7.2
+Brownsville,6.4,3,9
+Harlingen,6.6,4,9.2
+"Round Rock",5.8,4,7
+Canyon,6.2,5,6.9
+Weslaco,5.1,3,8.4
+Pasadena,5.9,3,9
+Weatherford,5.2,4.2,6.2
+"San Marcos",7.9,6.3,8.7
+Friendswood,9.1,8.5,9.5
+Abilene,9.7,9.7,9.7
+Alamo,6.3,3,9
+Waco,5.2,3,9
+Rowlett,5.1,3,9.8
+Abilene,6.1,4,9
+"Little Elm",6.1,4,9.6
+"New Braunfels",8.9,8.2,9.6
+Seguin,5.3,3,9
+Allen,6.2,4,9
+Richardson,7.5,5,8.9
+Laredo,6.3,3,9
+Alamo,5.2,5.2,5.2
+Weslaco,5.2,3,9.2
+McKinney,7,7,7
+Arlington,5.2,4.7,5.5
+Midland,8,5.9,9.7
+Allen,6.4,6.4,6.4
+Kerrville,6.2,4,9
+McKinney,5.9,3,9
+Canyon,6.1,3,9
+Harlingen,6.6,4.7,8.1
+Lewisville,4.4,4.4,4.4
+"Missouri City",6.3,4,8.6
+Conroe,6.4,4.3,8.5
+Cleburne,7.7,6.4,9.6
+Pearland,4.7,4.7,4.7
+Garland,6.4,3,9.5
+Allen,5.5,5.5,5.5
+Denton,6.8,5,8.7
+"San Marcos",4.8,3,8.9
+Richardson,4.6,4,5.2
+"Little Elm",6.2,4.9,7.6
+Brownsville,7.3,6.2,8.4
+"League City",8.8,7.7,9.8
+Laredo,6.9,3,9.6
+Rosenberg,5,3,9.4
+Huntsville,8.1,6.4,9.1
+Hurst,6.1,3,9
+"College Station",7.2,6.5,7.9
+Tyler,5.3,3,9.1
+Carrollton,6.4,3,9
+Brownsville,7.1,5,9.5
+"New Braunfels",6.6,4.3,8.9
+"Missouri City",9.3,9.3,9.3
+"Big Spring",6.2,5.1,8
+Pasadena,7,4,9
+Odessa,6.3,4,9.3
+McKinney,5.2,5.2,5.2
+Friendswood,5.6,5.6,5.6
+Laredo,6.6,5.7,7.4
+Hurst,9.1,9.1,9.1
+Dallas,8.2,8,8.5
+Southlake,5.2,3,8.7
+"League City",7.1,7.1,7.1
+"La Porte",6.6,3,9.1
+Lancaster,7.7,5.6,9
+Harlingen,6.1,3,9
+Denton,6.7,5.4,8.6
+Frisco,8.8,7.8,9.7
+Amarillo,6.7,3,9
+Killeen,6.9,4,9.1
+Plano,5.3,3,9.4
+"Eagle Pass",6.4,4,9.6
+"Flower Mound",6,4.5,7.5
+"Corpus Christi",4.2,4.2,4.2
+"Little Elm",5.2,4.2,6.4
+"El Paso",6,6,6
+"College Station",10,10,10
+Weslaco,5,3,9.5
+Grapevine,6.7,6,7.6
+Dallas,6,3,9.7
+"Missouri City",7.9,7.3,8.9
+"San Marcos",6.3,4.6,8
+"Lake Jackson",6.2,4,9
+McKinney,7,5.6,8.3
+Abilene,6.2,4,9
+"New Braunfels",6.1,3,9
+Austin,6.8,4,9
+"Flower Mound",6.6,4,9
+Lubbock,6.3,4.2,9.5
+"Fort Worth",8.4,7.8,9
+"San Angelo",5.4,3,8.7
+Conroe,7,4.9,9.2
+"Mineral Wells",6.9,4.4,8.2
+Waxahachie,7.5,7.5,7.5
+Temple,5.5,3,9.8
+Tyler,5.5,3,9.4
+Schertz,5.3,3,9.5
+Galveston,6,5.5,6.4
+Richardson,5.3,3,9.6
+Pharr,9,9,9
+Plano,9.6,9.6,9.6
+"League City",6.9,6.5,7.3
+Houston,6.5,4.3,9.3
+"Round Rock",5.2,3,9.3
+Victoria,5.2,3,9.5
+Georgetown,5.3,5.3,5.3
+Coppell,9.6,9.6,9.6
+Weatherford,6,5,7
+Coppell,6.4,4.9,7.6
+Burleson,4.8,4.8,4.8
+Odessa,4.6,4.1,5
+Nacogdoches,6,4.4,9.1
+Bedford,5,4.5,5.6
+Rosenberg,7.2,6,8.7
+Lufkin,8.4,8.4,8.4
+Laredo,6.3,6.3,6.3
+Pflugerville,6.9,4.2,9.9
+Euless,5.8,5,6.7
+"Del Rio",9,8.4,9.6
+Grapevine,6.2,6.2,6.2
+Nacogdoches,6.4,4,9
+"San Antonio",7.5,7,8
+DeSoto,6.6,6.6,6.6
+Nacogdoches,6.3,3,9
+Victoria,5,3,7
+Georgetown,6.2,4,9.8
+Austin,7.2,4,9
+Friendswood,6.3,3,9
+"Mineral Wells",6.2,6.2,6.2
+Seguin,8.9,8.9,8.9
+Lufkin,7.8,5.9,9.6
+"El Paso",6.8,3,9.1
+Harlingen,8.1,5.9,9.5
+Pflugerville,6.6,4.3,7.7
+Coppell,5.5,4,7
+Euless,5.7,4.2,6.7
+Arlington,6.3,3,9
+Waco,5.5,3,9
+"Corpus Christi",6.6,3,9.7
+Pearland,6,4.3,7.7
+Pflugerville,7.9,7.7,8.1
+Alice,6,4,9
+Weslaco,5.6,4.1,7.1
+"Big Spring",6.5,4,9
+Seguin,7.4,7,7.7
+Kerrville,8.4,8.4,8.4
+Georgetown,6.2,3,9
+Galveston,5.1,5.1,5.1
+Bryan,6.4,4,9.1
+"Little Elm",5,5,5
+"Eagle Pass",6,3,9
+"Cedar Park",6.6,5,8
+Amarillo,6.4,3,9
+Allen,5.6,5.6,5.6
+Southlake,5.6,3,7
+Killeen,6,3,9
+"North Richland Hills",5.9,5,6.3
+Brownwood,8.1,5.1,9.9
+"Farmers Branch",6.2,3,9
+Temple,5.2,3,9
+"Lake Jackson",6.4,4.2,8.6
+Richardson,8.6,8.6,8.6
+Mansfield,6.6,5.8,8.1
+"Big Spring",7.7,6,8.4
+Houston,6.4,3,9.5
+"Sugar Land",7.2,5.1,9.2
+Friendswood,7.1,4.4,9.3
+Temple,6.5,4.1,9.8
+Odessa,4.8,4.8,4.8
+Killeen,6.4,5.3,7.4
+"Flower Mound",6.3,4,9.6
+Nacogdoches,7.2,6.4,8
+Bedford,5.9,3,9
+Rockwall,5.5,3,9
+McAllen,6.3,6.2,6.4
+"North Richland Hills",5.7,3,9
+"Round Rock",8.9,8.9,8.9
+"Sugar Land",5.4,4,7
+"Missouri City",9,9,9
+Killeen,8.3,7,9.1
+Baytown,5,5,5
+"El Paso",6.5,6.3,6.7
+Houston,7.4,5.4,9.5
+"Port Arthur",5.2,3,9
+"Sugar Land",7.6,6,9.2
+Waco,5.4,3,9
+"Mineral Wells",6.4,3,9
+DeSoto,9.9,9.9,9.9
+Seguin,5.1,3,7
+Sherman,5.2,3,9.2
+Angleton,6.1,4,8
+Galveston,7.3,7.3,7.3
+Kerrville,6.5,6.5,6.5
+Georgetown,4.9,4.9,4.9
+Mission,5.7,3,9
+"Port Arthur",6.1,6.1,6.1
+"Farmers Branch",6,4.6,7.5
+Mesquite,8.8,8.8,8.8
+Mansfield,6.7,4,9
+"La Porte",5.8,4,9
+"Cedar Park",6.6,4,9.6
+Pharr,9.2,9.2,9.2
+McAllen,6,6,6
+Euless,6.6,6.6,6.6
+"Corpus Christi",7.4,7.4,7.4
+DeSoto,6.8,6.3,7.4
+Schertz,5.4,4.2,6.6
+Mansfield,7.8,6.6,8.9
+Laredo,9,9,9
+Bedford,6,6,6
+Dallas,5.6,5.6,5.6
+DeSoto,6.4,3,9
+Rockwall,5.4,3,7
+Austin,6.6,6.6,6.6
+Longview,8,8,8
+"Eagle Pass",9.6,9.6,9.6
+Lewisville,6.1,6.1,6.1
+Mesquite,7.8,7.8,7.8
+Lewisville,6.8,4,9
+Mesquite,8.7,7,9.8
+Lancaster,8.1,8.1,8.1
+"Mineral Wells",9.8,9.8,9.8
+"League City",5.8,4,9
+Plano,6,4,8
+Nacogdoches,6.8,5,8.5
+Edinburg,8.6,8.6,8.6
+Rosenberg,6.5,6.5,6.5
+"Corpus Christi",6.8,5.3,8.4
+Plano,5.2,3,9
+Lubbock,4.3,4.3,4.3
+Weslaco,6.8,4.3,9.2
+Huntsville,5.8,5.8,5.8
+"New Braunfels",5.9,5.9,5.9
+McKinney,4,4,4
+Pearland,6,4,9
+Angleton,7.6,5.1,10
+Angleton,5.1,5.1,5.1
+Lewisville,5.5,3,9
+"San Angelo",9.3,9.3,9.3
+Irving,7.2,5,8.6
+Midland,6,6,6
+"Grand Prairie",5,5,5
+Waco,5.6,5.6,5.6
+"Lake Jackson",7.2,7.2,7.2
+"Grand Prairie",5.9,3,9
+"New Braunfels",4.2,4.2,4.2
+Weatherford,5.1,3,9
+"College Station",6.7,4,9
+"Fort Worth",7.2,5.8,8.7
+Euless,6.6,4,9
+Coppell,6.8,4,9
+Sherman,4.7,3,7.6
+Carrollton,7.2,7.2,7.2
+Galveston,6.4,3,9
+Irving,7.6,7.6,7.6
+"El Paso",5.9,3,9.8
+"Haltom City",5.9,5.9,5.9
+Alice,7.3,7.3,7.3
+Pharr,6,4,9
+Longview,6.1,4,9
+Waco,8.4,8.4,8.4
+Austin,5.5,5.5,5.5
+"Grand Prairie",4.3,4.3,4.3
+Garland,6.2,4,9
+Brownwood,6.3,4,9
+Burleson,6.3,3,9
+Mansfield,6,3,9
+Frisco,6.4,3,9
+Conroe,6.4,4,9
+Friendswood,5.9,4,9
+Edinburg,6,3,9
+"Little Elm",5.8,3,8
+"New Braunfels",6.4,3,9
+Mesquite,6,3,9
+Burleson,6.2,3,9
+Rosenberg,5.1,3,9
+"Texas City",5.1,3,7
+"San Marcos",4.9,3,7
+Brownwood,6.3,3,9
+"San Antonio",5.1,3,9
+Baytown,6.4,4,9
+Lubbock,6.2,3,9
+Alice,5.9,3,9
+"Lake Jackson",6.9,4,9
+Longview,6.4,4,9
+Denton,6.7,3,9
+"San Angelo",4.9,3,9
+Odessa,6.2,3,9
+"League City",6.2,3,9
+Allen,6.6,3,9
+Tyler,5,3,8
+Rowlett,4.7,3,9
+Conroe,6.3,3,8
+"Corpus Christi",6,3,9
+Rockwall,5.1,3,9
+Frisco,6.6,3,9
+Southlake,5.2,3,9
+Bedford,6.8,4,9
+Huntsville,6.7,4,9
+"Haltom City",6.3,3,9
+Richardson,5.2,4,7
+Sherman,5,3,7
+"Texas City",4.6,3,7
+"Port Arthur",4.5,3,7
+Schertz,4.7,3,7

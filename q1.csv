@@ -1,0 +1,4 @@
+payment_method,count(*),sum(quantity)
+Ewallet,3881,8932
+Cash,1832,4984
+"Credit card",4256,9567
