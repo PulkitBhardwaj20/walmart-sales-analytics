@@ -210,7 +210,7 @@ git clone https://github.com/PulkitBhardwaj20/Walmart_Data_Analysis.git
 Install the required libraries
 
 ```bash
-pip install pandas numpy sqlalchemy pymysql kaggle
+pip install -r requirements.txt
 ```
 
 Open
