@@ -55,6 +55,9 @@ Walmart_Data_Analysis/
 │   └── walmart_data_analysis.sql
 │
 └── README.md
+│
+└── requirement.txt
+
 ```
 
 ---
