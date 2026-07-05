@@ -1,10 +1,10 @@
-# 🛒 Walmart Sales Analytics | End-to-End Data Analysis with Python & SQL
+# Walmart Sales Analytics | End-to-End Data Analysis with Python & SQL
 
 <p align="center">
   <img src="pipeline/walmart-project-pipeline.png" alt="Project Pipeline" width="1000"/>
 </p>
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end data analytics workflow using **Python, Pandas, SQLAlchemy, and MySQL**. Starting with a raw Walmart sales dataset downloaded from Kaggle, the data was cleaned, transformed, loaded into a MySQL database, and analyzed using SQL to answer real-world business questions.
 
@@ -12,7 +12,7 @@ The project showcases practical data analytics skills including data cleaning, f
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ The project showcases practical data analytics skills including data cleaning, f
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Walmart_Data_Analysis/
@@ -62,7 +62,7 @@ Walmart_Data_Analysis/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Source:** Walmart Sales Dataset (Kaggle)
 
@@ -85,14 +85,14 @@ The dataset contains approximately **10,000 retail transactions** across multipl
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
-### 1️⃣ Data Extraction
+### 1️. Data Extraction
 
 - Downloaded the dataset using the Kaggle API.
 - Loaded the CSV file into Python using Pandas.
 
-### 2️⃣ Data Cleaning
+### 2️. Data Cleaning
 
 Performed several preprocessing steps including:
 
@@ -101,16 +101,16 @@ Performed several preprocessing steps including:
 - Correcting data types
 - Validating data consistency
 
-### 3️⃣ Feature Engineering
+### 3️. Feature Engineering
 
 Created additional features required for business analysis and prepared the dataset for database loading.
 
-### 4️⃣ Database Loading
+### 4️. Database Loading
 
 - Connected Python to MySQL using SQLAlchemy.
 - Loaded the cleaned dataset into a MySQL database.
 
-### 5️⃣ SQL Analysis
+### 5️. SQL Analysis
 
 Answered multiple business questions using SQL involving:
 
@@ -123,7 +123,7 @@ Answered multiple business questions using SQL involving:
 
 ---
 
-## 💼 Business Problems Solved
+## Business Problems Solved
 
 - Find different payment methods and total transactions.
 - Identify the highest-rated category in each branch.
@@ -139,7 +139,7 @@ The SQL queries and outputs are included in the repository.
 
 ---
 
-## 🧠 SQL Concepts Used
+## SQL Concepts Used
 
 - SELECT
 - WHERE
@@ -156,7 +156,7 @@ The SQL queries and outputs are included in the repository.
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Identified the most profitable product categories.
 - Determined branch-wise preferred payment methods.
@@ -167,7 +167,7 @@ The SQL queries and outputs are included in the repository.
 
 ---
 
-## 📁 Outputs
+## Outputs
 
 The **outputs/** directory contains the result of every business problem as CSV files.
 
@@ -185,7 +185,7 @@ The **outputs/** directory contains the result of every business problem as CSV 
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -199,7 +199,7 @@ The **outputs/** directory contains the result of every business problem as CSV 
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Clone the repository
 
@@ -223,23 +223,22 @@ Run the notebook to reproduce the complete workflow.
 
 ---
 
-## 🔮 Future Improvements
-
-- Interactive Power BI Dashboard
-- Tableau Dashboard
-- Sales Forecasting using Machine Learning
-- Automated ETL Pipeline
-- Interactive KPI Dashboard
-
----
-
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Walmart Sales Dataset (Kaggle)
 - Built as a portfolio project to demonstrate end-to-end data analytics using Python and SQL.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Author
+
+**Pulkit Bhardwaj**
+
+- GitHub: https://github.com/PulkitBhardwaj20
+- LinkedIn: https://www.linkedin.com/in/pulkit-b-095377217/
